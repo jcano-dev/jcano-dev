@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jorge
+- 👀 I’m interested in .Net technologies
+- 🌱 I’m currently working in Asemblia
